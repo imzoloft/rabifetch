@@ -1,4 +1,4 @@
-## <h1>Rabifetch</h1>
+## <h3>Rabifetch</h3>
 
 <h6>Minimalist system fetch</h6>
 
