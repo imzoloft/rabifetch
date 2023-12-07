@@ -25,11 +25,11 @@
 - Thanks for looking at this repository, you can donate me btc to `bc1q0jc0dd6a7alzmr8j7hseg6r5d8333re9wu87wj`
 - Made by [zoloft](https://gitlab.com/imzoloft).
 
-<p align="center">
+<div align="center">
     <b>Informations</b><br>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/imzoloft/rabifetch?color=000">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/imzoloft/rabifetch?color=000">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/imzoloft/rabifetch?color=000">
     <img alt="GitHub" src="https://img.shields.io/github/license/imzoloft/rabifetch?color=000">
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/imzoloft/rabifetch?color=000">
-</p>
+</div>
